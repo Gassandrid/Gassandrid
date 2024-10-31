@@ -8,4 +8,4 @@ My name is Ewan Pedersen , I am an undergraduate at the University of Vermont st
 
 I have always been someone obsessed with Computer Paradigms through my life, but only about 4 years ago did I really start taking computer science seriously, and I have been borderline obsessed ever since.
 
-This has manifested in a variety of ways, from working on personal projects to
+This has manifested in a variety of ways, from working on personal projects to a lot of time invested in obsessive learning.
