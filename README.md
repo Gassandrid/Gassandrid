@@ -1,7 +1,5 @@
 # 🌟 Hello! Welcome to my little corner of the internet! 🌟
 
----
-
 I am a second-year undergraduate at the University of Vermont, with a passion for Computer Science, Mathematics, and Computational Neuroscience. I also like to dip my toes into embedded engineering, server infrastructure, and data science.
 
 ## 🌱 About Me
