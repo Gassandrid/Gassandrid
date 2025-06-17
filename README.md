@@ -4,7 +4,7 @@ I am a second-year undergraduate at the University of Vermont, with a passion fo
 
 ## 🌱 About Me
 
-See [my quartz garden](https://gassandrid.xyz/)
+See [my quartz garden](https://ewan.my/)
 
 I have always been someone obsessed with Computer Paradigms through my life, but only about 4 years ago did I really start taking computer science seriously, and I have been borderline obsessed ever since.
 
