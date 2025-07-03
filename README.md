@@ -11,3 +11,9 @@ I have always been someone obsessed with Computer Paradigms through my life, but
 Nowadays, I am focusing more on Computational Neuroscience, as I feel that it is the future of real "ai", even if I love the data science of today's machine learning models.
 
 I love to write! I write down everything, following the Zettelkasten method for notetaking but also for just about any idea that happens to be going through my head at any given time.
+
+## Currently Learning
+
+- Dynamical Systems Theory for Brain Modeling
+- Predictive Coding Models as an alternative to backpropagation
+- Causal Modeling for Density Estimation
