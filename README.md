@@ -12,8 +12,8 @@ Nowadays, I am focusing more on Computational Neuroscience, as I feel that it is
 
 I love to write! I write down everything, following the Zettelkasten method for notetaking but also for just about any idea that happens to be going through my head at any given time.
 
-## Currently Learning
+## Currently Yearning
 
-- Dynamical Systems Theory for Brain Modeling
-- Predictive Coding Models as an alternative to backpropagation
-- Causal Modeling for Density Estimation
+Reading **Gödel, Escher, Bach** (good book!)
+
+Working on predictive coding implementations and local neuron tuning methods. Also a lot of signal processing somehow.
